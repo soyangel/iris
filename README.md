@@ -119,7 +119,7 @@ Testing
 ------------
 
 Iris suggests you to use [this](https://github.com/gavv/httpexpect) new  suite to test your API.
-[Httpexpect](https://github.com/gavv/httpexpect) supports fasthttp & Iris after [recommandation](https://github.com/gavv/httpexpect/issues/2). Its author is very active so I believe its a promising library. You can view examples [here](https://github.com/gavv/httpexpect/blob/master/example/iris_test.go) and [here](https://github.com/kataras/iris/blob/master/tests/router_test.go).
+[Httpexpect](https://github.com/gavv/httpexpect) supports fasthttp & Iris after [recommendation](https://github.com/gavv/httpexpect/issues/2). Its author is very active so I believe its a promising library. You can view examples [here](https://github.com/gavv/httpexpect/blob/master/example/iris_test.go) and [here](https://github.com/kataras/iris/blob/master/tests/router_test.go).
 
 Versioning
 ------------
